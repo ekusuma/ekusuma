@@ -10,13 +10,7 @@
 <br />
 <br />
 
-I'm a self-taught
-<img height="20" style="vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-Python and
-<img height="15" style="vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-Javascript Developer from
-<img height="20" style="vertical-align: middle;" src="assets/germany_flag.svg">
-Germany!
+I'm a self-taught Python and Javascript Developer from Germany!
 
 -   ✏️ I'm currently working on my [Among Us Discord Bot][current-project].
 -   🎓 At the moment, I'm learning Java.
