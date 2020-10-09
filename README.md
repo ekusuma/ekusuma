@@ -13,7 +13,7 @@
 I'm a self-taught Python and Javascript Developer from Germany.
 
 -   ✏️ I'm currently working on my [Among Us Discord Bot][current-project]
--   🎓 I'm currently learning Java
+-   🎓 I'm currently learning Java.
 -   🎯 My goal is to scrap less projects.
 
 **Languages I use:**
@@ -26,10 +26,10 @@ I'm a self-taught Python and Javascript Developer from Germany.
 
 **Editors I use:**
 
-<code><img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/chocolatey-community/chocolatey-coreteampackages@00a000c7e5d8cc0d8416468e164eef281f843bff/icons/vscode.png"></code>
-<code><img align="left" alt="Intellij IDEA" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"></code>
-<code><img align="left" alt="Figma" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
-<code><img align="left" alt="Sublime Text 3" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<code><img height="20px" src="https://cdn.jsdelivr.net/gh/chocolatey-community/chocolatey-coreteampackages@00a000c7e5d8cc0d8416468e164eef281f843bff/icons/vscode.png"></code>
+<code><img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"></code>
+<code><img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+<code><img height="20px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 
 <br />
 <br />
