@@ -10,11 +10,17 @@
 <br />
 <br />
 
-I'm a self-taught Python and Javascript Developer from Germany.
+I'm a self-taught
+<img height="20" style="vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+Python and
+<img height="15" style="vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+Javascript Developer from
+<img height="20" style="vertical-align: middle;" src="assets/germany_flag.svg">
+Germany!
 
--   ✏️ I'm currently working on my [Among Us Discord Bot][current-project]
--   🎓 I'm currently learning Java.
--   🎯 My goal is to scrap less projects.
+-   ✏️ I'm currently working on my [Among Us Discord Bot][current-project].
+-   🎓 At the moment, I'm learning Java.
+-   🎯 My goal is to scrap fewer projects.
 
 **Languages I use:**
 
@@ -26,10 +32,12 @@ I'm a self-taught Python and Javascript Developer from Germany.
 
 **Editors I use:**
 
-<code><img height="20px" src="https://cdn.jsdelivr.net/gh/chocolatey-community/chocolatey-coreteampackages@00a000c7e5d8cc0d8416468e164eef281f843bff/icons/vscode.png"></code>
-<code><img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"></code>
-<code><img height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
-<code><img height="20px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/chocolatey-community/chocolatey-coreteampackages@00a000c7e5d8cc0d8416468e164eef281f843bff/icons/vscode.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+
+![ekusuma's github stats](https://github-readme-stats.vercel.app/api?username=ekusuma&hide=stars,prs&include_all_commits=true)
 
 <br />
 <br />
